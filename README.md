@@ -33,3 +33,7 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+
+
+This is a basic expense tracker application written in JavaScript. It allows users to add expenses with descriptions and amounts, delete expenses, and view the total amount of expenses. The data is stored in the browser's local storage so that it persists even after the page is refreshed.
+
