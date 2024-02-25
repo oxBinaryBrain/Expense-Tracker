@@ -2,6 +2,21 @@
 
 Expense Tracker is a simple web application built with HTML, CSS, and JavaScript that helps you track your expenses.
 
+
+
+1. User Interface (HTML/CSS):
+
+    Create an HTML file for the structure of the application.
+    Use CSS for styling to make the application visually appealing.
+
+2. Functionality (JavaScript):
+
+    Implement functionalities to add, edit, delete, and display expenses.
+    Use local storage to persist the expenses even after refreshing the page.
+
+
+
+   
 ## Features
 
 - Add new expenses with descriptions and amounts.
