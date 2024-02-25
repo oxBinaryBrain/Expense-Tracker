@@ -28,11 +28,11 @@ Expense Tracker is a simple web application built with HTML, CSS, and JavaScript
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/expense-tracker.git
+    git clone https://github.com/oxBinaryBrain/expense-tracker.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd expense-tracker
+    cd Expense-Tracker
     ```
 3. Open `index.html` in your web browser.
 
