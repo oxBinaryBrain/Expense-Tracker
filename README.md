@@ -36,10 +36,6 @@ Expense Tracker is a simple web application built with HTML, CSS, and JavaScript
     ```
 3. Open `index.html` in your web browser.
 
-## Screenshots
-
-![Expense Tracker Screenshot](screenshot.png)
-
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
