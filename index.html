@@ -8,15 +8,26 @@
 </head>
 <body>
     <div class="container">
-        <h1>Expense Tracker</h1>
-        <form id="expense-form">
-            <label for="expense">Expense:</label>
-            <input type="text" id="expense">
-            <label for="amount">Amount:</label>
-            <input type="number" id="amount">
-            <button type="submit">Add Expense</button>
-        </form>
-        <ul id="expense-list"></ul>
+        <header>
+            <h1>Expense Tracker</h1>
+        </header>
+        <main>
+            <form id="expense-form">
+                <div class="form-group">
+                    <label for="expense">Expense:</label>
+                    <input type="text" id="expense" required>
+                </div>
+                <div class="form-group">
+                    <label for="amount">Amount:</label>
+                    <input type="number" id="amount" required>
+                </div>
+                <button type="submit">Add Expense</button>
+            </form>
+            <div class="expense-list-container">
+                <h2>Expenses</h2>
+                <ul id="expense-list"></ul>
+            </div>
+        </main>
     </div>
     <script src="script.js"></script>
 </body>
