@@ -41,5 +41,7 @@ This is a basic expense tracker application written in JavaScript. It allows use
 
 Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
 
+/////////
+
 
 
